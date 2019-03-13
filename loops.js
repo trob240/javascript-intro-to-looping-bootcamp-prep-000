@@ -12,3 +12,7 @@ function forLoop(a){
   
 }
 
+function whileLoop(){
+  var b
+  while 
+}
