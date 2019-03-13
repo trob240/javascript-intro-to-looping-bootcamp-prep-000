@@ -31,4 +31,5 @@ function doWhileLoop(a){
     console.log('I run once regardless.');
   }
   while(incrementVariable() < a);
+  return a;
 }
