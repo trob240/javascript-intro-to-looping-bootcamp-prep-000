@@ -13,7 +13,6 @@ function forLoop(a){
 }
 
 function whileLoop(b){
-  var b
   while ( b > 0) {
     console.log(b);
     --b;
