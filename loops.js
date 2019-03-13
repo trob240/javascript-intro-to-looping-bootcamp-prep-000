@@ -23,5 +23,5 @@ function doWhileLoop(a){
   do {
     conosole.log('I run once regardless.');
   }
-  while(incrementVariable() < a)
+  while(incrementVariable(a) < num)
 }
