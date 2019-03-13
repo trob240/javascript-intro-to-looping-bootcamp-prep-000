@@ -1,6 +1,6 @@
 var a = []
 
-function forLoop(a){
+function forLoop(){
   
   for (var i = 0; i < 25; i++){
     if (i === 1) {
@@ -14,5 +14,9 @@ function forLoop(a){
 
 function whileLoop(){
   var b
-  while 
+  while ( b >= 0) {
+    console.log(b);
+    --b;
+  }
+  return 'done';
 }
