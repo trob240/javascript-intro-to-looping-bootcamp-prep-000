@@ -8,5 +8,6 @@ function forLoop(a){
     }
     else {a.push(`I am ${i} strange loops.`)}
   }
+  return (a);
   
 }
