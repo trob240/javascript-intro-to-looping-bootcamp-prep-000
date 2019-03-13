@@ -1,4 +1,3 @@
-var a = []
 
 function forLoop(a){
   
